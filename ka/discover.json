@@ -1,0 +1,28 @@
+{
+  "collectionsColumn": "კოლექციები",
+  "collectionsColumn/collectionError": "შეცდომა კოლექციის დეტალების ჩატვირთვისას, გთხოვთ სცადოთ განახლება ზემოთ",
+  "bookmarksColumn": "სანიშნეები",
+  "searchBar/placeholder": "მოდელების ძიება Hugging Face-ზე...",
+  "searchBar/huggingFaceError": "შეცდომა მოხდა Hugging Face-დან შედეგების მიღებისას, გთხოვთ სცადოთ მოგვიანებით",
+  "sortBy": "დალაგება",
+  "searchSortKey.default/title": "საუკეთესო შესაბამისობა",
+  "searchSortKey.likes/title": "ყველაზე მეტი მოწონება",
+  "searchSortKey.downloads/title": "ყველაზე მეტი ჩამოტვირთვა",
+  "searchSortKey.lastModified/title": "ბოლო განახლებული",
+  "searchSortKey.createdAt/title": "ბოლო შექმნილი",
+  "download.option.willFitEstimation.caveat": "შესაძლოა არსებობდეს სხვა ფაქტორები, რომლებიც ხელს უშლიან ჩატვირთვას, როგორიცაა მოდელის არქიტექტურა, მოდელის ფაილის მთლიანობა ან თქვენს კომპიუტერზე არსებული მეხსიერების რაოდენობა.",
+  "download.option.willFitEstimation.fullGPUOffload/title": "სრული GPU გადატვირთვა შესაძლებელია",
+  "download.option.willFitEstimation.fullGPUOffload/description": "ეს მოდელი შეიძლება სრულად მოთავსდეს თქვენს GPU-ს მეხსიერებაში. ეს შეიძლება მნიშვნელოვნად დააჩქაროს ინფერენცია.",
+  "download.option.willFitEstimation.partialGPUOffload/title": "ნაწილობრივი GPU გადატვირთვა შესაძლებელია",
+  "download.option.willFitEstimation.partialGPUOffload/description": "ეს მოდელი შეიძლება ნაწილობრივ მოთავსდეს თქვენს GPU-ს მეხსიერებაში. ეს ხშირად მნიშვნელოვნად დააჩქარებს ინფერენციას.",
+  "download.option.willFitEstimation.fitWithoutGPU/title": "სავარაუდოდ მოთავსდება",
+  "download.option.willFitEstimation.fitWithoutGPU/description": "ეს მოდელი სავარაუდოდ მოთავსდება თქვენს კომპიუტერის მეხსიერებაში.",
+  "download.option.willFitEstimation.willNotFit/title": "სავარაუდოდ ძალიან დიდი ამ კომპიუტერისთვის",
+  "download.option.willFitEstimation.willNotFit/description": "მოდელის ფაილის წარმატებით გამოყენებისთვის საჭირო მეხსიერების მოთხოვნები შეიძლება აღემატებოდეს თქვენს კომპიუტერზე არსებულ რესურსებს. ამ ფაილის ჩამოტვირთვა არ არის რეკომენდირებული.",
+  "download.option.recommended/title": "რეკომენდირებული",
+  "download.option.recommended/description": "თქვენი აპარატურის მიხედვით, ეს ვარიანტი რეკომენდირებულია.",
+  "download.option.downloaded/title": "ჩამოტვირთულია",
+  "download.option.downloading/title": "ჩამოტვირთვა ({{progressPercentile}}%)",
+
+  "feed.action.refresh": "ფიდის განახლება"
+}
